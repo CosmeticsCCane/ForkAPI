@@ -1,7 +1,7 @@
 # Public-Cosmetics
-Cosmetics API by ArcaneCiCi
+Cosmetics API by ArcaneCiCi (made it actually to work by Jegox)
 
-**API link is http://github.com/ArcaneCiCi/Public-Cosmetics/player/**
+**API link is https://raw.githubusercontent.com/(Your Username)/Public-Cosmetics/master/player/**
 
 You can edit this to your liking once you fork it.
 
