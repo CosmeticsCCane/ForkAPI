@@ -1,1 +1,20 @@
-sdsdsadasd
+{ 
+   "uuid":"3937affa-6b95-4e58-a3d2-50a38d6caffe",
+   "username":null,
+   "cosmetics":{ 
+      "cbblack":{ 
+         "name":"cbblack",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/Public-Cosmetics/master/cosmetics/cbblack.png"
+},
+      "black":{ 
+         "name":"black",
+         "type":"dragon_wings",
+         "scale":0.15,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/Public-Cosmetics/master/cosmetics/black.png"
+      }
+   }
+}
