@@ -13,29 +13,29 @@
          "name":"420",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/420.png"
 },
       "twitch":{ 
          "name":"twitch",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/twitch.png"
 },
       "youtube":{ 
          "name":"youtube",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/youtube.png"
 },
-      "Black_Wings":{ 
-         "name":"Black_Wings",
+      "black":{ 
+         "name":"black",
          "type":"dragon_wings",
          "scale":0.12,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/Black_Wings.png"
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/black.png"
       }
    }
 }
