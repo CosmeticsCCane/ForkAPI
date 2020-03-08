@@ -7,14 +7,14 @@
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/Public-Cosmetics/master/cosmetics/cbblack.png"
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/cbblack.png"
 },
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
          "scale":0.12,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/Public-Cosmetics/master/cosmetics/black.png"
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/black.png"
       }
    }
 }
