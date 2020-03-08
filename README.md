@@ -1,4 +1,4 @@
-# Public-Cosmetics
+# Forkable Cosmetics
 Cosmetics API by ArcaneCiCi (made it actually to work by Jegox)
 
 **API link is https://raw.githubusercontent.com/Jegox/Public-Cosmetics/master/player/**
