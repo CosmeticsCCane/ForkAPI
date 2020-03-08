@@ -2,19 +2,40 @@
    "uuid":"3937affa-6b95-4e58-a3d2-50a38d6caffe",
    "username":null,
    "cosmetics":{ 
-      "cbblack":{ 
-         "name":"cbblack",
+      "CB":{ 
+         "name":"CB",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/cbblack.png"
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/CB.png"
 },
-      "black":{ 
-         "name":"black",
+      "420":{ 
+         "name":"420",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/420.png"
+},
+      "twitch":{ 
+         "name":"twitch",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/twitch.png"
+},
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/youtube.png"
+},
+      "Black_Wings":{ 
+         "name":"Black_Wings",
          "type":"dragon_wings",
          "scale":0.12,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/black.png"
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/Black_Wings.png"
       }
    }
 }
