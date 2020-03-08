@@ -30,12 +30,12 @@
          "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/youtube.png"
 },
-      "black":{ 
-         "name":"black",
+      "indigo":{ 
+         "name":"indigo",
          "type":"dragon_wings",
          "scale":0.12,
          "active":true,
-         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/black.png"
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/indigo.png"
       }
    }
 }
