@@ -1,0 +1,41 @@
+{ 
+   "uuid":"17d1db16-65a7-41c8-abcb-ec139bc43b51",
+   "username":null,
+   "cosmetics":{ 
+      "CB":{ 
+         "name":"CB",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/CB.png"
+},
+      "420":{ 
+         "name":"420",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/420.png"
+},
+      "twitch":{ 
+         "name":"twitch",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/twitch.png"
+},
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/youtube.png"
+},
+      "indigo":{ 
+         "name":"indigo",
+         "type":"dragon_wings",
+         "scale":0.12,
+         "active":true,
+         "resourceLocation":"https://raw.githubusercontent.com/JegoxMC/ForkAPI/master/cosmetics/indigo.png"
+      }
+   }
+}
